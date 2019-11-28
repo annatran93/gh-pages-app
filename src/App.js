@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           <h3>welcome to my app</h3>
+          <p>adding more stuff</p>
         </a>
       </header>
     </div>
