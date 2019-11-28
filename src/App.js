@@ -18,6 +18,9 @@ function App() {
         >
           <h3>welcome to my app</h3>
           <p>adding more stuff</p>
+          {/* git add -A
+          git commit -m "added more stuff"
+          npm run deploy */}
         </a>
       </header>
     </div>
